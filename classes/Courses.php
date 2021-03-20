@@ -35,7 +35,7 @@ class Courses {
     //Skapa en ny kurs
     public function create() {
         //SQL fråga
-        $sql = "INSERT INTO courses(courseid, coursename, progression, courseplan) VALUES ('$this->courseid', '$this->coursename', '$this->progression', $this->courseplan')";
+        $sql = "INSERT INTO courses(courseid, coursename, progression, courseplan) VALUES ('$this->courseid', '$this->coursename', '$this->progression', ' $this->courseplan')";
         $result = $this->db->query($sql); //Resultat
         return $result;
     }
