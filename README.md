@@ -9,7 +9,8 @@ Detta är en webbtjänst som är skapad med PHP och som har full CRUD (create, r
 
 ### CRUD Länkar:
 
-[GET metod](http://studenter.miun.se/~empa1600/writeable/webbutveckling3/moment5.1/courses.php)
+GET - http://studenter.miun.se/~empa1600/writeable/webbutveckling3/moment5.1/courses.php
+POST - http://studenter.miun.se/~empa1600/writeable/webbutveckling3/moment5.1/courses.php
 
 
 
